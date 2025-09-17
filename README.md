@@ -15,12 +15,14 @@
 
 ```
 Behavior-analysis/
-├── analysis/                
-├── preprocessing/               
-├── visualization/                
-├── README.md  
-├── main.py              
-└── config.py     
+├── analysis/
+├── config.py
+├── main.py
+├── pictures/
+├── preprocessing/
+├── README.md
+├── user_analysis.py
+└── visualization/  
 ```
 
 
