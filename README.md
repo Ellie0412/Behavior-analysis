@@ -25,6 +25,7 @@ Behavior-analysis/
 
 
 ## 可视化
+![回流积极用户占比折线图](pictures/returning_active_users.png)
 
 ![回流积极用户占比折线图](pictures/回流积极用户占比折线图.png)
 
